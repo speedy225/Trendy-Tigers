@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2D7c7fE984c62D8C8B0128b869BfC5FFaF505A89",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2d7c7fe984c62d8c8b0128b869bfc5ffaf505a89",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Trendy Taigas",
+  "SYMBOL": "TTT",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 22000000000000000000,
+  "DISPLAY_COST": 22,
+  "GAS_LIMIT": 6000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
